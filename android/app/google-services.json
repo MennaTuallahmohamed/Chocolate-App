@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343954054662",
+    "project_id": "chocklateapp-17b36",
+    "storage_bucket": "chocklateapp-17b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343954054662:android:140e83c716a39a32212d87",
+        "android_client_info": {
+          "package_name": "com.example.chocklateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7zkoNgiCywk-ziXe_icekBfFBwVx9co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
